@@ -5,6 +5,7 @@ import aegis from "@/public/aegis.png";
 import timeEasy from "@/public/timeeasy.png";
 import realtimeNotes from "@/public/realtimenotes.png";
 import unbody from "@/public/unbody.png";
+import spotify from "@/public/spotify.png";
 
 export const links = [
   {
@@ -91,6 +92,14 @@ export const projectsData = [
       "I worked as a Full Stack developer on this project. It is a time tracking app for teams. It has features like time tracking, project management, team management, etc.",
     tags: ["React", "TypeScript", "Fie", "Tailwind", "Redux"],
     imageUrl: timeEasy,
+  },
+  {
+    link: "https://tls-spotify-clone.vercel.app",
+    title: "Spotify Clone",
+    description:
+      "This is a practice project. It is a clone of spotify. It has features like spotify authentication, song uploading, song playing, stripe etc.",
+    tags: ["Next.js", "Tailwind", "Supabase", "Stripe"],
+    imageUrl: spotify,
   },
   {
     link: "https://realtime-notes-app.vercel.app/",
