@@ -53,7 +53,7 @@ export const experiencesData = [
   },
   {
     title: "Full-Stack Developer",
-    location: "Waltontech, Pakistan",
+    location: "Mercury Sols, Pakistan",
     description:
       "I'm now a Team Lead Full Stack developer. I'm working on a multiple projects and leading a team of 5 developers. Imporving my skills and learning new technologies.",
     icon: React.createElement(FaCode),
